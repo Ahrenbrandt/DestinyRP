@@ -8,7 +8,7 @@ local Translations = {
         project_completed = '%{value}: ~g~Klart!~s~',
         project_notcompleted = '%{value}: ~r~Inte klart~s~',
         project_end = '[~g~G~s~] Stoppa projekt',
-        complete_task = '[~g~E~s~] Uppdrag slutfört'
+        complete_task = '[~g~E~s~] Uppdrag slutfört',
     }
 }
 
