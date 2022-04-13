@@ -1,5 +1,6 @@
 local Translations = {
     error = {
+<<<<<<< HEAD
         ["blips_deactivated"] = "Blips inaktiverade",
         ["names_deactivated"] = "Namn inaktiverade",
         ["changed_perm_failed"] = "Välj en grupp!",
@@ -24,6 +25,33 @@ local Translations = {
         ["entered_vehicle"] = "Inmatat fordon",
         ["success_vehicle_owner"] = "Fordonet är nu ditt!",
         ["receive_reports"] = "Du tar emot rapporter",
+=======
+        ["blips_deactivated"] = "Blips deactivated",
+        ["names_deactivated"] = "Names deactivated",
+        ["changed_perm_failed"] = "Choose a group!",
+        ["missing_reason"] = "You must give a reason!",
+        ["invalid_reason_length_ban"] = "You must give a Reason and set a Length for the ban!",
+        ["no_store_vehicle_garage"] = "You cant store this vehicle in your garage..", 
+        ["no_vehicle"] = "You are not in a vehicle..",
+        ["no_weapon"] = "You dont have a weapon in your hands..",
+        ["no_free_seats"] = "The vehicle has no free seats!",
+        ["failed_vehicle_owner"] = "This vehicle is already yours..",
+        ["not_online"] = "This player is not online",
+        ["no_receive_report"] = "You are not receiving reports",
+        ["failed_set_speed"] = "You did not set a speed.. (`fast` for super-run, `normal` for normal)",
+        ["failed_set_model"] = "You did not set a model..",
+    },
+    success = {
+        ["blips_activated"] = "Blips activated",
+        ["names_activated"] = "Names activated",
+        ["coords_copied"] = "Coordinates copied to clipboard!",
+        ["heading_copied"] = "Heading copied to clipboard!",
+        ["changed_perm"] = "Authority group changed",
+        ["entered_vehicle"] = "Entered vehicle",
+        ["success_vehicle_owner"] = "The vehicle is now yours!",
+        ["receive_reports"] = "You are receiving reports",
+    },
+>>>>>>> 72b4175089325cf0a039b6ebc228000d99f46ee0
     info = {
         ["ped_coords"] = "Ped Coordinates:",
         ["vehicle_dev_data"] = "Vehicle Developer Data:",
