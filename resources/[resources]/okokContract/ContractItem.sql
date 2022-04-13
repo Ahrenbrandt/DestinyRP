@@ -1,1 +1,0 @@
-INSERT INTO `items` (`name`, `label`, `weight`) VALUES ('contract', 'Contract', 1);
